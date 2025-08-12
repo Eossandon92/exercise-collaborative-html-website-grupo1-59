@@ -1,5 +1,5 @@
-body{
-    background: #ffffff;
+body {
+    background-color: white;
 }
 
   header.hero {
@@ -11,4 +11,3 @@ body{
     object-fit: cover;
     height: 100%;
   }
-
