@@ -1,3 +1,14 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
+
+  header.hero {
+    height: 100vh; 
+    overflow: hidden;
+  }
+
+  header.hero img {
+    object-fit: cover;
+    height: 100%;
+  }
+
